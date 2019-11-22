@@ -15,4 +15,4 @@
 - 界面显示
 ![图片](https://github.com/fhhan/qt/blob/master/fig/canvas3.png)
 
-> 参考借鉴于 [code1](matplotlib_with_pyqt.py)[code2](Animation_matplotlib_1.py)[code3](Animation_matplotlib_2.py)
+> 参考借鉴于 [Code1](matplotlib_with_pyqt.py)  [Code2](Animation_matplotlib_1.py)  [Code3](Animation_matplotlib_2.py)
