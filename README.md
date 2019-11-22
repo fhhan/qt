@@ -9,8 +9,6 @@
 ## Matplotlib and PyQt5
 ### [自定义 MplFigure 类](https://github.com/fhhan/qt/blob/master/Matplotlib_MplCanvas.py)
 - 界面显示
-![图片1](https://github.com/fhhan/qt/blob/master/fig/canvas1.png)
-
 ![图片2](https://github.com/fhhan/qt/blob/master/fig/canvas2.png)
 
 ### [无自定义 MplFigure 类](https://github.com/fhhan/qt/blob/master/Matplotlib_qt.py)
