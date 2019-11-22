@@ -14,4 +14,3 @@
 ### [无自定义 MplFigure 类](https://github.com/fhhan/qt/blob/master/Matplotlib_qt.py)
 - 界面显示
 ![图片](https://github.com/fhhan/qt/blob/master/fig/canvas3.png)
-
