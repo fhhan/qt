@@ -17,9 +17,9 @@ class MplCanvas(FigureCanvas):
 		#FigureCanvas.__init__(self, fig)
 
 
-class Plottest(QWidget):
+class MyPlot(QWidget):
 	def __init__(self):
-		super(Plottest,self).__init__()
+		super(MyPlot,self).__init__()
 		self.setWindowTitle('GUI with Matplotlib')
 
 		vbox = QVBoxLayout()
@@ -54,6 +54,6 @@ class Plottest(QWidget):
 
 if __name__ == "__main__":
 	app = QApplication(sys.argv)
-	demo = Plottest()
+	demo = MyPlot()
 	demo.show()
 	sys.exit(app.exec_())
