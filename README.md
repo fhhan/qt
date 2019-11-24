@@ -1,5 +1,6 @@
 # PyQt5 小试
-## [图书查询](https://github.com/fhhan/qt/blob/master/QBook.py)
+## 图书馆查询
+### [图书查询](https://github.com/fhhan/qt/blob/master/QBook.py)
 - 界面显示
 ![图片](https://github.com/fhhan/qt/blob/master/fig/WindowView.png)
 - 控件之间的逻辑关系
