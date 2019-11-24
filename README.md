@@ -18,3 +18,10 @@
 
 > 参考借鉴于 Code:
 >[绘制](matplotlib_with_pyqt.py) ; [实时添加、绘制数据](Animation_matplotlib_1.py) ; [动画](Animation_matplotlib_2.py)
+
+## 天气查询
+### [查询天气并保存为 xml 文件](setWeather.py)
+- 界面显示
+![图片](fig/weather.jpg)
+- 控件之间的逻辑关系  
+[getWeather.py](getWeather.py)中weath类为QThread子类
