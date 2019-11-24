@@ -24,4 +24,5 @@
 - 界面显示
 ![图片](fig/weather.jpg)
 - 控件之间的逻辑关系  
-[getWeather.py](getWeather.py)中weath类为QThread子类
+-- [getWeather.py](getWeather.py)中weath类为QThread子类  
+-- 文本编辑框QTextEdit（可编辑）和文本浏览框QTextBrowser（不可编辑）
