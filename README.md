@@ -18,13 +18,13 @@
 
 #### 界面显示  
 
-![图片2](https://github.com/fhhan/qt/blob/master/fig/canvas2.png)
+![图片2](https://github.com/fhhan/qt/blob/master/fig/Canvas1.png)
 
 ### [无自定义 MplFigure 类](https://github.com/fhhan/qt/blob/master/Matplotlib_qt.py)  
 
 #### 界面显示  
 
-![图片](https://github.com/fhhan/qt/blob/master/fig/canvas3.png)
+![图片](https://github.com/fhhan/qt/blob/master/fig/Canvas3.png)
 
 > 参考借鉴于 Code:
 >[绘制](matplotlib_with_pyqt.py) &nbsp;|&nbsp; [实时添加、绘制数据](Animation_matplotlib_1.py) &nbsp;|&nbsp; [动画](Animation_matplotlib_2.py)
