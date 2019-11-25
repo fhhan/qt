@@ -49,7 +49,8 @@ class MyPlot(QWidget):
 			self.canvas.ax.plot(x,np.cos(x),'r:',label="Cos",linewidth=2)
 
 		self.canvas.ax.legend(loc=3)
-		self.canvas.draw()
+		#self.canvas.draw()
+		self.canvas.draw_idle()
 		self.flag = not self.flag
 
 if __name__ == "__main__":
